@@ -1,0 +1,2 @@
+# IMDb Movie Review Sentiment Analysis
+The project aims to build a model that predicts the sentiment of a movie review (either positive or negative). [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) is being used to train the dataset.
