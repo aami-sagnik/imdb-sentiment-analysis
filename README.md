@@ -1,2 +1,2 @@
 # IMDb Movie Review Sentiment Analysis
-The project aims to build a model that predicts the sentiment of a movie review (either positive or negative). [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) is being used to train the dataset. An LSTM model is being used for sentiment analysis.
+The project aims to build a model that predicts the sentiment of a movie review (either positive or negative). [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) is being used to train the dataset. Two LSTM models, uni-directional and bi-directional are being used for sentiment analysis.
